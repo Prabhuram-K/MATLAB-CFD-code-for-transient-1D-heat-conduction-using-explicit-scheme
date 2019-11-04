@@ -17,3 +17,6 @@ initial temperatue of the bar at L = 303.15 K
 no of grids = 100
 time at which the temperature profile is calculated = 120 s, 600 s, 3600 s
 time step value chosen = 0.42
+
+------------conclusion-----------
+It can be observed that the temperature profile tends to achieve equilibrium and the values of the temperature at the nodes tends towards the same value.
