@@ -2,6 +2,7 @@
 %%ANY CASE WITH A CONSTANT HEAT FLUX BOUNDARY CONDITION ON BOTH THE
 %%BOUNDARIES IF THE OBJECT IS SYMMETRICAL AND THE CONDITIONS ARE
 %%SYMMETRICAL USING THE EXPLICIT SCHEME OF TRANSIENT FINITE VOLUME METHOD.
+clear all
 clc
 %-------------------Input Variables----------------------%
 L= input('enter the length of the domain in m - ');
